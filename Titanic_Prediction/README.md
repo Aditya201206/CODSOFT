@@ -1,9 +1,15 @@
 # Titanic Survival Prediction
 
-This project predicts whether a passenger survived the Titanic disaster using Machine Learning.
+## Objective
+Predict whether a passenger survived the Titanic disaster using Machine Learning.
 
-Technologies Used:
+## Technologies Used
 - Python
 - Pandas
 - Scikit-learn
-- Matplotlib
+
+## Algorithm Used
+- Logistic Regression
+
+## Output
+The model predicts passenger survival with good accuracy.
